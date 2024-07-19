@@ -19,6 +19,8 @@ knitr::opts_chunk$set(
 [![Lifecycle: experimental](https://img.shields.io/badge/lifecycle-experimental-orange.svg)](https://lifecycle.r-lib.org/articles/stages.html#experimental)
 [![CRAN status](https://www.r-pkg.org/badges/version/verifidar)](https://CRAN.R-project.org/package=verifidar)
 [![Hippocratic License HL3-BDS-BOD-CL-ECO-EXTR-FFD-LAW-MEDIA-MIL-MY-SV-TAL-XUAR](https://img.shields.io/static/v1?label=Hippocratic%20License&message=HL3-BDS-BOD-CL-ECO-EXTR-FFD-LAW-MEDIA-MIL-MY-SV-TAL-XUAR&labelColor=5e2751&color=bc8c3d)](https://firstdonoharm.dev/version/3/0/bds-bod-cl-eco-extr-ffd-law-media-mil-my-sv-tal-xuar.html)
+[![Codecov test coverage](https://codecov.io/gh/samherniman/verifidar/branch/main/graph/badge.svg)](https://app.codecov.io/gh/samherniman/verifidar?branch=main)
+[![R-CMD-check](https://github.com/samherniman/verifidar/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/samherniman/verifidar/actions/workflows/R-CMD-check.yaml)
 <!-- badges: end -->
 
 The goal of verifidar is to ...
@@ -56,3 +58,8 @@ plot(pressure)
 ```
 
 In that case, don't forget to commit and push the resulting figure files, so they display on GitHub and CRAN.
+
+
+## Code of Conduct
+
+Please note that the verifidar project is released with a [Contributor Code of Conduct](https://contributor-covenant.org/version/2/1/CODE_OF_CONDUCT.html). By contributing to this project, you agree to abide by its terms.
