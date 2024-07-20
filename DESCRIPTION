@@ -18,4 +18,4 @@ URL: https://samherniman.github.io/verifidar/
 Imports: 
     lasR (>= 0.9.0)
 Remotes:  
-    https://r-lidar.r-universe.dev
+    r-lidar/lasR
