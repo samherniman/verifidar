@@ -16,4 +16,6 @@ Roxygen: list(markdown = TRUE)
 RoxygenNote: 7.3.2
 URL: https://samherniman.github.io/verifidar/
 Imports: 
-    lasR
+    lasR (>= 0.9.0)
+Remotes:  
+    https://r-lidar.r-universe.dev
