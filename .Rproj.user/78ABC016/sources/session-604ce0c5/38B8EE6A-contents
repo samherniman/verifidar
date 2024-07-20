@@ -1,0 +1,10 @@
+test_that("sample_points works", {
+  f <- system.file("extdata", "Topography.las", package = "lasR")
+  df <- sample_points(f)
+  expect_length(df, 3)
+  expect_s3_class(df, "data.frame")
+  expect_gt(nrow(df), 50)
+  expect_gt(mean(df$Z), 700)
+  expect_lt(mean(df$Z), 950)
+  expect_true(273300 <= mean(df$X) && mean(df$X) <= 273700)
+})

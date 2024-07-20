@@ -1,0 +1,26 @@
+{
+    "id": "38B8EE6A",
+    "path": "~/projects/git/verifidar/tests/testthat/test-sample_points.R",
+    "project_path": "tests/testthat/test-sample_points.R",
+    "type": "r_source",
+    "hash": "2608701281",
+    "contents": "",
+    "dirty": false,
+    "created": 1721431383283.0,
+    "source_on_save": false,
+    "relative_order": 7,
+    "properties": {
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "6,28",
+        "scrollLine": "0"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1721432350,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1721432350284,
+    "read_only": false,
+    "read_only_alternatives": []
+}
